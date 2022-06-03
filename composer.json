@@ -1,9 +1,0 @@
-{
-    "name": "user/pract",
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Photos\\": ""
-        }
-    }
-}
